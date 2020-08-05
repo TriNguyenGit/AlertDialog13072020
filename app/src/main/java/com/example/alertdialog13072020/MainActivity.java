@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity {
                 buider.setNeutralButton("Hủy", new DialogInterface.OnClickListener() {
                     @Override
                     public void onClick(DialogInterface dialogInterface, int i) {
-                             
+
                     }
                 });
                 buider.show();
